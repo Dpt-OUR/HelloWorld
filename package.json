@@ -1,0 +1,19 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "Projet organisé dans le cadre de notre cours GIT, les collaborateurs sont : \r Oussama Bellifa\r Ulysse Arnaud\r Ryan Daoud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dpt-OUR/HelloWorld.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dpt-OUR/HelloWorld/issues"
+  },
+  "homepage": "https://github.com/Dpt-OUR/HelloWorld#readme"
+}
