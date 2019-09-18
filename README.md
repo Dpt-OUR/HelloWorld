@@ -1,3 +1,7 @@
 # HelloWorld
-Ceci est une description
-Ouss readme
+
+Projet organisé dans le cadre de notre cours GIT, les collaborateurs sont : 
+Oussama Bellifa
+Ulysse Arnaud
+Ryan Daoud
+
